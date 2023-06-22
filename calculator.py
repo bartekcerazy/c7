@@ -1,6 +1,8 @@
-def add(a, b):
-    return a + b
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of b2ac744 (usunieto funkcje odejmownia z pliku calculator.py)
 def subtract(a, b):
     return a - b
 
